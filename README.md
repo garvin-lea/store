@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # store
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# store
+>>>>>>> 592dcd98897a8444110dc6f31d5e2cd02ceb11b8
